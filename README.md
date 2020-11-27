@@ -1,0 +1,2 @@
+# github-wuxan
+statygit
